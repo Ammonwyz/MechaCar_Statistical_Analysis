@@ -50,19 +50,17 @@ To competite with other companies, MechaCar need to analysis Safety rating and H
 
 What metric or metrics are you going to test?
 
-To compare vehicle performance of the MechaCar versus its top competitors, AutosRUs should look at two main performance measures:
-
-Safety rating and Horsepower
+  To compare vehicle performance of the MechaCar versus its top competitors, AutosRUs should look at two main performance measures: Safety rating and Horsepower
 
 What is the null hypothesis or alternative hypothesis?
 
-H0: There is no statistifcal difference in the mean Fuel Safety rating and Horsepower between the MechaCar and its competitors.
-HA: There is a statistical difference in the mean Fuel Safety rating and Horsepower between the MechaCar and its competitors.
+  H0: There is no statistifcal difference in the mean Fuel Safety rating and Horsepower between the MechaCar and its competitors.
+  HA: There is a statistical difference in the mean Fuel Safety rating and Horsepower between the MechaCar and its competitors.
 
 What statistical test would you use to test the hypothesis? And why?
 
-Using the pair t-test because of Comparing measurements on the same subjects across a single span of time (e.g., safty rating before and after horsepower increased).
+  Using the pair t-test because of Comparing measurements on the same subjects across a single span of time (e.g., safty rating before and after horsepower increased).
 
 What data is needed to run the statistical test?
 
-MechaCar and Competition's data need to be togethered to run the statistical test.
+  MechaCar and Competition's data need to be togethered to run the statistical test.
